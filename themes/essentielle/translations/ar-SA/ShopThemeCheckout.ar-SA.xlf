@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xamp-7.2\htdocs\v1_electronic_electro_102_2_gtmatrix_lazyload\admin650ry5qno" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="ef5febb834c98ccf8d7fa88f33f77aef">
+        <source>Your Cart: </source>
+        <target>عربتك:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7d74f3b92b19da5e606d737d339a9679">
+        <source>Item</source>
+        <target>بند</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9dea4016dbcc290b773ab2fae678aaa8">
+        <source>Items</source>
+        <target>العناصر</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="39de5bf23f9814be88d61f913fc96356">
+        <source>Sub Total</source>
+        <target>المجموع الفرعي</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="57c1fee9db05c07a96c99d9260d38d6d">
+        <source>View cart</source>
+        <target>عرض العرب</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7e0bf6d67701868aac3116ade8fea957">
+        <source>Proceed to checkout</source>
+        <target>باشرالخروج من الفندق</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ed64d74350a112407ec9879eaa55273d">
+        <source>No product add in cart</source>
+        <target>لا يوجد منتج في سلة المشتريات</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

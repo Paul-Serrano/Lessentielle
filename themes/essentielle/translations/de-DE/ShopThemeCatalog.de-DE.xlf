@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xamp-7.2\htdocs\v1_electronic_electro_102_2_gtmatrix_lazyload\admin650ry5qno" source-language="de-DE" target-language="de-DE" datatype="plaintext">
+    <body>
+      <trans-unit id="f2fdea440d768b85591e936a803c3631">
+        <source>Sign In</source>
+        <target>Einloggen</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7d393189ea0cd012c51f4fd58d53eb5b">
+        <source>Quantity : </source>
+        <target>Menge : </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="588907ab2d492aca0b07b5bf9c931eea">
+        <source>On sale</source>
+        <target>Im Angebot</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="43560641f91e63dc83682bc598892fa1">
+        <source>Viewed products</source>
+        <target>Angesehene Produkte</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bea8d9e6a0d57c4a264756b4f9822ed9">
+        <source>My Account</source>
+        <target>Mein Konto</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="cfff8593a3adedd98a18631f85152d23">
+        <source>%1$s: </source>
+        <target>%1$s:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4d8adffdc001189e0202c01ac529a3a9">
+        <source>Regular price</source>
+        <target>Regulärer Preis</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f7dc3756c9809148ff383dd215a9ca82">
+        <source> off</source>
+        <target>aus</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5d1190edfb16f1dcaaecc56570c864be">
+        <source>Your customization:</source>
+        <target>Ihre Anpassung:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ea254ced8be4adb6c4a2750e84087da6">
+        <source>Availability date:</source>
+        <target>Verfügbarkeitsdatum:</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7dcd185f890fd28f69d1ed210292d77f">
+        <source>Data sheet</source>
+        <target>Datenblatt</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4594f39c6dac58760daeb19d79389576">
+        <source>Specific References</source>
+        <target>Spezifische Referenzen</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

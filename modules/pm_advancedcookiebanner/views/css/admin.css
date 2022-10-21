@@ -1,0 +1,143 @@
+/* Rating block */
+#addons-rating-container {
+    background-image: url(../img/star.png), url(../img/star.png);
+    background-position: 1% center, 99% center;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#addons-rating-container p.dismiss {
+    font-size:10px;
+}
+/* Footer block */
+#pm_panel_cs_modules_bottom { height: 240px !important;  padding: 0 18px !important; }
+#pm_panel_cs_modules_bottom div#cs-product-container { padding: 0 18px; }
+#pm_panel_cs_modules_bottom iframe { overflow: hidden; height: 178px; width: 100%; border: 0; padding: 0; margin: 0; }
+#pm_support_informations h2, #pm_panel_cs_modules_bottom h2 { padding: 0 !important; }
+#pm_support_informations { height: 90px !important; padding: 0 18px !important; }
+#pm_support_informations ul.pm_links_block { list-style: none; margin: 0; padding: 0; }
+#pm_support_informations ul.pm_links_block li { margin: 0px 30px; padding: 0; display: inline-block; }
+#pm_support_informations .pm_copy_block { position: absolute; right: 10px; top: 12px; }
+#pm_support_informations .pm_copy_block img { max-width:150px; }
+
+/* Thumbnail in back-office */
+.pm_acb_img_bo {max-width: 200px!important; max-height: 200px!important;}
+
+td.acb-module-blacklist {
+	vertical-align: middle;
+	height: 24px;
+}
+
+.acb-module-checkbox {display: block; float: left; width: 20px;}
+.acb-module-logo {display: block; float: left;}
+.acb-module-logo img {width: 24px; height: 24px;}
+.acb-module-name {display: block; float: left; font-weight: bold; margin-left: 8px;}
+
+.acb-content-container iframe {max-height: 150px;}
+
+.pm_acb_advanced_styles_container {
+    background: #f3f3f3;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+.acb-columns-form-group {
+    border-top: 1px solid #ccc;
+    padding-top: 1rem;
+}
+#acbLeftColumn {
+    border-right: 1px solid #ccc;
+    height: 60vh;
+    padding-right: 1rem;
+    position: unset;
+    overflow-y: scroll;
+}
+#acbLeftColumn ul, #acbColumnsContainer ul {
+    padding-left: 0;
+    overflow-x: hidden;
+    flex: 1;
+}
+#acbColumnsContainer {
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: unset;
+}
+#acbColumnsContainer > .col-lg-12 {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 180px;
+    margin-left: 0.5rem;
+    position: unset;
+}
+#acbColumnsContainer > .col-lg-12:not(:last-of-type) {
+    border-bottom: 1px solid #ccc;
+}
+#availableModulesList {
+    overflow-y: scroll;
+    padding-bottom: 3.5rem;
+    height: 100%;
+}
+.acbPlaceholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-style: italic;
+    border: 1px dashed #ddd;
+}
+.acbModuleBlacklist {
+    height: 3rem;
+    overflow: hidden;
+    width: auto;
+    display: flex;
+    align-items: center;
+    cursor: move;
+    border: 1px solid #ddd;
+    border-radius: 3px 3px 0 0;
+    padding: .5rem!important; /* Required to override col's padding */
+    float: left;
+}
+.acbModuleBlacklist.notDraggable {
+    cursor: not-allowed;
+}
+.acbModuleBlacklist .acbRemoveModuleIconContainer {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 0.6rem 0.4rem 0.7rem 0.2rem;
+    margin-left: 0.5rem;
+}
+.acbModuleBlacklist:not(.col-lg-12):not(.ui-sortable-helper) {
+    margin: 0 1rem 1rem 0;
+}
+.ui-sortable-helper {
+    background-color: #efefef;
+}
+.acbModuleDisplayName {
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.ui-sortable-placeholder {
+    visibility: visible!important;
+}
+.acbModuleLogo {
+    display: inline-block;
+    margin-right: 1rem;
+}
+.acbModuleLogo img {
+    width: 24px;
+    height: 24px;
+}
+a[href="#simulation"] {
+    display: flex !important;
+    align-items: center;
+}
+a[href="#simulation"] .icon-warning {
+    color: #fcc94f;
+    margin-right: 5px;
+}

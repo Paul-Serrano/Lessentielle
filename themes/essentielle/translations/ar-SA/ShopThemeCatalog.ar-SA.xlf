@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xamp-7.2\htdocs\v1_electronic_electro_102_2_gtmatrix_lazyload\admin650ry5qno" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="f7dc3756c9809148ff383dd215a9ca82">
+        <source> off</source>
+        <target>إيقاف</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f2fdea440d768b85591e936a803c3631">
+        <source>Sign In</source>
+        <target>تسجيل الدخول</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
+        <source>Home</source>
+        <target>الصفحة الرئيسية</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c57076ca32165e539715eb39aa67538a">
+        <source>Go Top</source>
+        <target>الذهاب أعلى</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d85544fce402c7a2a96a48078edaf203">
+        <source>Facebook</source>
+        <target>الفيسبوك</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2491bc9c7d8731e1ae33124093bc7026">
+        <source>Twitter</source>
+        <target>تويتر</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5b2c8bfd1bc974966209b7be1cb51a72">
+        <source>Google+</source>
+        <target>جوجل+</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="86709a608bd914b28221164e6680ebf7">
+        <source>Pinterest</source>
+        <target>بينتيريست</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="49a9c7600337b79b14396cd15d579977">
+        <source>Subcategory</source>
+        <target>تصنيف فرعي</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="496689fbd342f80d30f1f266d060415a">
+        <source>No supplier</source>
+        <target>لا يوجد مورد</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8e41eae149ff3fa38cc9c4fde945f2c3">
+        <source>No brand</source>
+        <target>أي علامة تجارية</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bea8d9e6a0d57c4a264756b4f9822ed9">
+        <source>My Account</source>
+        <target>حسابي</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7d393189ea0cd012c51f4fd58d53eb5b">
+        <source>Quantity : </source>
+        <target>الكمية : </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fb526aaa0add86e4e124263db50438c8">
+        <source>Showing %from%-%to% of %total% item(s)</source>
+        <target>Showing %from%-%to% of %total% item(s)</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8794a5dad880ed1a30d82081872b050e">
+        <source>Tax Included</source>
+        <target>شامل الضريبة</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

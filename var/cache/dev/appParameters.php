@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '',
+    'database_name' => 'lessentielle',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'JcZkQEB6xMB0db0eSNz2E1BO73zDuGBJBksHKdF8tOkZAQpXvJsnZxshG1a24S8m',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-10-17',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'Dzwu8kr3pju2u1wnG56XrYy2IOx09mUitBOVGUC1i9L0pmp0mi40GGwUQRI6L8LV',
+    'cookie_iv' => 'AKnrW4iWK48IdmpV6nmjtzLG9Vmiine2',
+    'new_cookie_key' => 'def00000a04a42a20fd46c4bf668c02eef2daa85b8ee0ac47bfb7e7a0073ea81cd82779c9429292c3bba368ceb7375cb9be3d5512500fe938a93faa351a9ecd92b77b87c',
+  ),
+);

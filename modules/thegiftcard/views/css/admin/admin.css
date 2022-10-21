@@ -1,0 +1,18 @@
+#giftcard_form .badge-consumption {
+  display: block;
+  padding: 2px 0;
+}
+
+#giftcard_form .default_amounts {
+    padding: 15px;
+}
+
+#giftcard_form .default_amounts .currency-field {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+#giftcard_form .default_amounts .currency-field img {
+    margin-right: 20px;
+}

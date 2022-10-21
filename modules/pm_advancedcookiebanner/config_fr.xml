@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pm_advancedcookiebanner</name>
+    <displayName><![CDATA[Advanced Cookie Banner]]></displayName>
+    <version><![CDATA[2.1.6]]></version>
+    <description><![CDATA[Ajoutez la meilleure banni&egrave;re d&#039;approbation des cookies &agrave; votre boutique, et bloquez facilement les cookies]]></description>
+    <author><![CDATA[Presta-Module]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,159 @@
+#acb-banner {
+    box-sizing: border-box;
+    position: fixed !important;
+    left: 0;
+    z-index: 999999;
+    padding: 10px 0 20px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    border-style: solid;
+    border-width: 0;
+}
+#acb_link_information {
+    text-decoration: underline;
+    width: auto;
+}
+#acb-banner.acb-position-bottom {
+    bottom: 0;
+}
+#acb-banner.acb-position-top {
+    top: 0;
+}
+#acb-action {
+    align-self: center;
+}
+#acb-content {
+    align-self: center;
+}
+.acb-button:hover {
+    box-shadow: 0 2px 10px rgba(255, 255, 255, .4);
+    cursor: pointer;
+}
+#acb-banner:not(.acb-gdpr) .acb-button {
+    width: 100%;
+}
+.acb-button {
+    height: 2.8em;
+    border: 0;
+    border-radius: 4px;
+    text-transform: uppercase;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+.acbCheckboxesContainer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+/* Uniform related */
+.acbCheckboxContainer16 {
+    display: flex;
+    align-items: flex-end;
+}
+.acbCheckboxContainer label {
+    margin-bottom: 0;
+}
+#acbCriticalCheckbox:hover {
+    cursor: not-allowed;
+}
+/* Override default Uniform CSS to actually show a disabled checked checkbox */
+#acb-content div.checker.disabled span.checked {
+    background-position: -15px -257px;
+}
+@media screen and (min-width: 768px) {
+    #acb-banner.acb-gdpr {
+        flex-direction: column;
+    }
+    #acb-banner.acb-gdpr #acb-action {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        margin-top: 1rem;
+    }
+    #acb-banner.acb-gdpr .acb-button {
+        padding: 0 3rem;
+        margin: 0 3rem;
+    }
+}
+@media screen and (max-width: 767px) {
+    #acb-banner.acb-position-bottom {
+        top: 0;
+        bottom: auto;
+    }
+    #acb-banner.acb-position-top {
+        top: 0;
+    }
+    #acb-banner {
+        max-height: 95%;
+        margin: 10px 10px 10px 10px;
+        width: inherit!important;
+        flex-direction: column;
+        border-top-width: inherit;
+    }
+    #acb-content {
+        overflow: scroll;
+        max-height: 20%;
+        margin-bottom: 10px;
+    }
+    .acb_link_information_container {
+        margin: 10px 0;
+        padding: 10px 0;
+        border-width: 1px 0;
+        border-style: dotted;
+    }
+    .acbCheckboxesContainer {
+        flex-direction: column;
+    }
+    /* Fix alignment on mobile 1.6 as Uniform isn't used */
+    .acbCheckboxContainer16 input {
+        margin: 4px 5px 2px 0;
+    }
+    .acbCheckboxContainer {
+        margin: 1rem 0;
+    }
+    #acb-banner.acb-gdpr .acb-button {
+        width: 100%;
+        margin: 0.5rem 0;
+    }
+}
+/* Medium devices such as iPhone 6 in landscape mode */
+@media screen and (min-width: 576px) and (max-width: 767px) and (orientation: landscape) {
+    #acb-banner.acb-gdpr {
+        width: 95vw!important;
+    }
+    #acb-banner.acb-gdpr .acb-button {
+        width: initial;
+    }
+    #acb-banner.acb-gdpr #acb-action {
+        display: flex;
+        justify-content: space-between;
+        width: 83.33333%;
+    }
+}
+/* Classic iPad */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    #acb-banner.acb-gdpr .acb-button {
+        padding: 0 0.5rem;
+    }
+}
+/* Classic iPad in landscape mode */
+@media screen and (min-width: 768px) and (max-width: 991px) and (orientation: landscape) {
+    #acb-banner.acb-gdpr .acb-button {
+        padding: 0 1rem;
+    }
+}
+/* Very small devices, e.g. iPhone SE */
+@media screen and (max-width: 575px) and (orientation: landscape) {
+    #acb-banner.acb-gdpr {
+        width: 95vw!important;
+    }
+    #acb-banner.acb-gdpr .acb-button {
+        width: initial;
+    }
+    #acb-banner.acb-gdpr #acb-action {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xamp-7.2\htdocs\v1_electronic_electro_102_2_gtmatrix_lazyload\admin650ry5qno" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="70f23ff594252e51839210b6cc9641fc">
+        <source>Quick View</source>
+        <target>Aperçu rapide</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b6d4223e60986fa4c9af77ee5f7149c5">
+        <source>Sign in</source>
+        <target>Connexion</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="85367c3faf74b058939654bdef8968d7">
+        <source>DAYS</source>
+        <target>JOURNÉES</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5ab9376a7869a83e84e94bcb25aa8cbd">
+        <source>HOURS</source>
+        <target>HEURES</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c047965cec27aa943df9a48b805a7bb5">
+        <source>MINS</source>
+        <target>MINS</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e0aa021e21dddbd6d8cecec71e9cf564">
+        <source>OK</source>
+        <target>D'accord</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="59fc69e031ecb0f82efe467fd6692383">
+        <source>View Cart</source>
+        <target>Voir le panier</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="231d5cc583e69d5b6c5bdced40dcc27c">
+        <source>CheckOut</source>
+        <target>Checkout</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ff2170faacc8950b8dc897bb86764d78">
+        <source>QTY :</source>
+        <target>QUANTITÉ :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d7778d0c64b6ba21494c97f77a66885a">
+        <source>Filter</source>
+        <target>Filtre</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b55197a49e8c4cd8c314bc2aa39d6feb">
+        <source>Out of stock</source>
+        <target>Rupture de stock</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5174d1309f275ba6f275db3af9eb3e18">
+        <source>Grid</source>
+        <target>Grille</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="83804b882caf0aa41a76ccfa1294f3e3">
+        <source>Grid-2</source>
+        <target>Grille 2</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4ee29ca12c7d126654bd0e5275de6135">
+        <source>List</source>
+        <target>Lister</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5d31236c5c1157dfa6aa85d2661babf7">
+        <source>List-2</source>
+        <target>Liste-2</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e04014782bf5fc3e173412cb79208702">
+        <source>Catelog</source>
+        <target>Catalogue</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9e3acb6fd8530bf05e607e405a1dae30">
+        <source>View Right Column</source>
+        <target>Afficher la colonne de droite</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e0626222614bdee31951d84c64e5e9ff">
+        <source>Select</source>
+        <target>Sélectionner</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7e0bf6d67701868aac3116ade8fea957">
+        <source>Proceed to checkout</source>
+        <target>Passer à la caisse</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

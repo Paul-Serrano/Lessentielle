@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xamp-7.2\htdocs\v1_electronic_electro_102_2_gtmatrix_lazyload\admin650ry5qno" source-language="ar-SA" target-language="ar-SA" datatype="plaintext">
+    <body>
+      <trans-unit id="70f23ff594252e51839210b6cc9641fc">
+        <source>Quick View</source>
+        <target>نظرة سريعة</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="85367c3faf74b058939654bdef8968d7">
+        <source>DAYS</source>
+        <target>أيام</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5ab9376a7869a83e84e94bcb25aa8cbd">
+        <source>HOURS</source>
+        <target>ساعة</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c047965cec27aa943df9a48b805a7bb5">
+        <source>MINS</source>
+        <target>الدقائق</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="df4aa7191e784c37fcc75eece911cb0e">
+        <source>SECS</source>
+        <target>ثانيا</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b64c83286ace832c0ec837ac4c1c8057">
+        <source>Add To Cart</source>
+        <target>أضف إلى السلة</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5174d1309f275ba6f275db3af9eb3e18">
+        <source>Grid</source>
+        <target>جريد</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="83804b882caf0aa41a76ccfa1294f3e3">
+        <source>Grid-2</source>
+        <target>الشبكة 2</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="4ee29ca12c7d126654bd0e5275de6135">
+        <source>List</source>
+        <target>قائمة</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5d31236c5c1157dfa6aa85d2661babf7">
+        <source>List-2</source>
+        <target>القائمة -2</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e04014782bf5fc3e173412cb79208702">
+        <source>Catelog</source>
+        <target>فهرس</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9e3acb6fd8530bf05e607e405a1dae30">
+        <source>View Right Column</source>
+        <target>عرض العمود الأيمن</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="fa983192e743ec2eb773b0d262e84b63">
+        <source>View Left Column</source>
+        <target>عرض العمود الأيسر</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="53d978054ae84799fe8e35ae6c808ef7">
+        <source>Out Of Stock</source>
+        <target>إنتهى من المخزن</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d7778d0c64b6ba21494c97f77a66885a">
+        <source>Filter</source>
+        <target>منقي</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b5841cac6c270403f5870118a4ff3064">
+        <source>Share on : </source>
+        <target>مشاركه فى : </target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="628b7db04235f228d40adc671413a8c8">
+        <source>day</source>
+        <target>يوم</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="3e8c0d71fd528beb8a254731d5ca921a">
+        <source>hou</source>
+        <target>بعد ذلك</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d8bd79cc131920d5de426f914d17405a">
+        <source>min</source>
+        <target>دقيقة</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="74459ca3cf85a81df90da95ff6e7a207">
+        <source>sec</source>
+        <target>ثانية</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="59fc69e031ecb0f82efe467fd6692383">
+        <source>View Cart</source>
+        <target>عرض السلة</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="231d5cc583e69d5b6c5bdced40dcc27c">
+        <source>CheckOut</source>
+        <target>الدفع</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ff2170faacc8950b8dc897bb86764d78">
+        <source>QTY :</source>
+        <target>الكمية :</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d304ba20e96d87411588eeabac850e34">
+        <source>label</source>
+        <target>ضع الكلمة المناسبة</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="5f4dcc3b5aa765d61d8327deb882cf99">
+        <source>password</source>
+        <target>كلمه السر</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="896c55cc5e46fab38ce9f51ebf7bfcd3">
+        <source>hour</source>
+        <target>ساعة</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b55197a49e8c4cd8c314bc2aa39d6feb">
+        <source>Out of stock</source>
+        <target>إنتهى من المخزن</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0ba7583639a274c434bbe6ef797115a4">
+        <source>Register</source>
+        <target>يسجل.</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

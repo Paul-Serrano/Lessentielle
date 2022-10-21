@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xamp-7.2\htdocs\v1_electronic_electro_102_2_gtmatrix_lazyload\admin650ry5qno" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="57c1fee9db05c07a96c99d9260d38d6d">
+        <source>View cart</source>
+        <target>Visualizza il carrello</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7e0bf6d67701868aac3116ade8fea957">
+        <source>Proceed to checkout</source>
+        <target>Procedere al checkout</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="39de5bf23f9814be88d61f913fc96356">
+        <source>Sub Total</source>
+        <target>Totale parziale</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ef5febb834c98ccf8d7fa88f33f77aef">
+        <source>Your Cart: </source>
+        <target>Il tuo carrello:</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

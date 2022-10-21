@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xamp-7.2\htdocs\v1_electronic_electro_102_2_gtmatrix_lazyload\admin650ry5qno" source-language="ru-RU" target-language="ru-RU" datatype="plaintext">
+    <body>
+      <trans-unit id="f2fdea440d768b85591e936a803c3631">
+        <source>Sign In</source>
+        <target>Войти в систему</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7d393189ea0cd012c51f4fd58d53eb5b">
+        <source>Quantity : </source>
+        <target>Количество : </target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

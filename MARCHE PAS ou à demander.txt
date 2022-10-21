@@ -1,0 +1,23 @@
+Ajouter liste d'envies -- WISHLIST
+
+pas de header sur les pages product-X.tpl
+
+identifier produits soumis à l'échantiollonage
+créer une catégorie ? 
+https://addons.prestashop.com/fr/fidelisation-parrainage/4414-all-in-one-rewards-fidelite-parrainage-affiliation.html
+
+modifier module ps_banner pour mettre en avant le coffret échantiollon sur la hompage ?
+
+lien utile pour le menu Cartes et coffrets cadeaux ?
+
+pages random, récupérer URL pour personnaliser en css chaque pages ? (mon compte, identité etc ...)
+
+page produit : attente d'un exemple de produits pour le design
+
+augmentation prix auto du panier quand on ajoute une unité d'un produit déjà existant
+
+
+
+MODIFICATIONS APPORTEES :
+
+module bannière : fichier tpl et back office formulaire

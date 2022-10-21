@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xamp-7.2\htdocs\v1_electronic_electro_102_2_gtmatrix_lazyload\admin650ry5qno" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="ed64d74350a112407ec9879eaa55273d">
+        <source>No product add in cart</source>
+        <target>Aucun produit ajouté au panier</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7d74f3b92b19da5e606d737d339a9679">
+        <source>Item</source>
+        <target>Article</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="9dea4016dbcc290b773ab2fae678aaa8">
+        <source>Items</source>
+        <target>Articles</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="39de5bf23f9814be88d61f913fc96356">
+        <source>Sub Total</source>
+        <target>Total partiel</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="57c1fee9db05c07a96c99d9260d38d6d">
+        <source>View cart</source>
+        <target>Voir le panier</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7e0bf6d67701868aac3116ade8fea957">
+        <source>Proceed to checkout</source>
+        <target>Passer à la caisse</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

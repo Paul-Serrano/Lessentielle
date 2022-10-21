@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xamp-7.2\htdocs\v1_electronic_electro_102_2_gtmatrix_lazyload\admin650ry5qno" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="5bdba1fc0fba1010d61ce253c2e57da8">
+        <source>Search our catalog</source>
+        <target>Rechercher dans notre catalogue</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c57076ca32165e539715eb39aa67538a">
+        <source>Go Top</source>
+        <target>Aller en haut</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f2fdea440d768b85591e936a803c3631">
+        <source>Sign In</source>
+        <target>Se connecter</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b5a7adde1af5c87d7fd797b6245c2a39">
+        <source>Description</source>
+        <target>La description</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f7dc3756c9809148ff383dd215a9ca82">
+        <source> off</source>
+        <target>de</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="8cf04a9734132302f96da8e113e80ce5">
+        <source>Home</source>
+        <target>Accueil</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7d393189ea0cd012c51f4fd58d53eb5b">
+        <source>Quantity : </source>
+        <target>Quantité : </target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

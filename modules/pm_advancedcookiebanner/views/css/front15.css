@@ -1,0 +1,73 @@
+#acb-content p {
+    padding-bottom: 0;
+}
+#acb-banner .acbCheckboxesContainer .acbCheckboxContainer {
+    font-size: 15px;
+}
+/* Defining a width manually is usefull when the footer has no responsive width */
+@media screen and (max-width: 767px) {
+    #acb-banner {
+        padding: 1rem;
+        width: 95vw!important;
+    }
+}
+#acb-banner .col-xs-12,
+#acb-banner .col-sm-2,
+#acb-banner .col-sm-10,
+#acb-banner .col-sm-12,
+#acb-banner .col-md-2,
+#acb-banner .col-md-10,
+#acb-banner .col-md-12,
+#acb-banner .col-lg-2,
+#acb-banner .col-lg-10,
+#acb-banner .col-lg-12 {
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+#acb-banner .col-xs-12 {
+  width: 100%;
+}
+@media (min-width: 768px) {
+    #acb-banner .col-sm-2, #acb-banner .col-sm-10, #acb-banner .col-sm-12 {
+        float: left;
+    }
+    #acb-banner .col-sm-2 {
+        width: 16.66667%;
+    }
+    #acb-banner .col-sm-10 {
+        width: 83.33333%;
+    }
+    #acb-banner .col-sm-12 {
+        width: 100%;
+    }
+}
+@media (min-width: 992px) {
+    #acb-banner .col-md-2, #acb-banner .col-md-10, #acb-banner .col-md-12 {
+        float: left;
+    }
+    #acb-banner .col-md-2 {
+        width: 16.66667%;
+    }
+    #acb-banner .col-md-10 {
+        width: 83.33333%;
+    }
+    #acb-banner .col-md-12 {
+        width: 100%;
+    }
+}
+@media (min-width: 1200px) {
+    #acb-banner .col-lg-2, #acb-banner .col-lg-10, #acb-banner .col-lg-12 {
+        float: left;
+    }
+    #acb-banner .col-lg-2 {
+        width: 16.66667%;
+    }
+    #acb-banner .col-lg-10 {
+        width: 83.33333%;
+    }
+    #acb-banner .col-lg-12 {
+        width: 100%;
+    }
+}
